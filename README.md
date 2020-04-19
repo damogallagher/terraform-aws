@@ -17,8 +17,15 @@ resource "aws_instance" "example" {
 ```
 
 
-Run terraform commands
+Run terraform init - this tells Terraform to scan the code, figure out what providers you’re using, and download the code for them. Need to run init everytime you start on new terraform code
+
 terraform init
+
+Run terraform plan command
+
+terraform plan
+
+
 # Good Tutorials
 
 https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#3ec6
