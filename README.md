@@ -32,9 +32,10 @@ Run terraform apply command.  This will show you the same plan output and asks y
 
 https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180#3ec6
 
-
 https://learn.hashicorp.com/terraform/getting-started/intro
 
 https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
 
 https://blog.gruntwork.io/how-to-create-reusable-infrastructure-with-terraform-modules-25526d65f73d
+
+https://learn.hashicorp.com/terraform/aws/lambda-api-gateway
